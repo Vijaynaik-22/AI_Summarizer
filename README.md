@@ -24,7 +24,7 @@ For the deployment of the project, we can use this command.
   npm run dev
 ```
 
-This application is deployed and accessible online at: https://tinq-ai.netlify.app  
+This application is deployed and accessible online at: https://vijayai.netlify.app  
 Feel free to visit the link and try the article summarizer yourself!
 
 ## Images
